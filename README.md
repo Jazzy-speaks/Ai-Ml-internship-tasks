@@ -59,9 +59,7 @@ Python, Pandas, Seaborn, Matplotlib, Scikit-learn
 
 
 
-
-
-# House Price Prediction
+# Task 6: House Price Prediction
 
 ## Objective
 Predict house prices using features like area, bedrooms, and location.
